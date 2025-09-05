@@ -18,7 +18,7 @@
 <a href="https://codepen.io/nithishkumar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nithishkumar21" height="30" width="40" /></a>
 <a href="https://dev.to/dev. to nithish kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev. to nithish kumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nithishkumar-s-79b506356?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nithishkumar-s-79b506356?" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_nithix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_nithix_" height="30" width="40" /></a>
+<a href="https://instagram.com/itz_nithix_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_nithix_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
